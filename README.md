@@ -29,7 +29,7 @@ The interactive dashboard is built in Power BI, and you can:
 - For the Airline: Identify areas of improvement and celebrate success areas by diving deep into traveler feedback.
 🌟 Preview
 Here's a sneak peek of the dashboard:
-![Dashboard](Dashboard-1.png)
+![Dashboard](https://github.com/SoujxD/British-Airlines-Analysis/blob/main/Dashboard.png)
 
 ### 🛠️ Tools & Technologies
 - Power BI for data visualization
